@@ -31,3 +31,40 @@ Para isso, utilizamos dois recursos: Léxico, uma espécie de dicionário, que p
 
 “Um discurso é qualquer cadeia/segmento de língua – usualmente maior que uma sentença. Livros-texto, romances, relatórios meteorológicos e conversações (diálogos) são tipos de discursos” – Russel, S. & Norvig, P. (2003). Artificial Intelligence: A Modern Approach.
 
+Para a linha americana, a concepção de discurso encara um texto como algo a maisdo que uma simples sequência de sentenças justapostas. Isso porque possui uma estrutura altamente elaborada, com diversas propriedades em níveis variados:
+
+- Coesão;
+- Coerência;
+- Progressão temática;
+- Tópicos;
+- Intenções;
+- Estilo.
+
+Então, é possível dizer que há uma “sintaxe textual”.
+
+## Coesão vs Coerência
+A coesão é o uso de mecanismos linguísticos para conectar unidades textuais, como uma “cola textual”:
+
+- Palavras (mesma palavra, sinônimos, hiperônimos, etc.);
+- Expressões referenciais;
+- Marcadores discursivos, frases e palavras indicativas;
+- Pontuação;
+- Paralelismo sintático;
+- Etc.
+
+Por outro lado, a coerência é a relação de significado entre unidades textuais, como o significado do discurso pode ser inferido a partir das partes textuais: conteúdo textual.
+
+O discurso está entre os níveis de análise da língua mais abstratos. Para Koch & Travaglia (2002), ele envolve a situação de comunicação entre escritor/falante e leitor/ouvinte.
+
+## RST - Teoria de Estrutura Retórica
+A RST é uma das principais teorias discursivas usadas no PLN, contendo 23 relações.
+
+A ideia é que a RST descreve relações entre o conteúdo de segmentos discursivos em termos funcionais, como através de proposições. A premissa é que todo texto tem uma estrutura retórica subjacente que permite recuperar o objetivo comunicativo que o escritor do texto pretendia atingir ao escrevê-lo.
+
+Os principais elementos da RST são as estruturas retóricas, compostas por segmentos discursivos inter-relacionados por meio de relações retóricas. Os segmentos discursivos: unidades mínimas de significado que compõem um texto.
+
+Cada segmento discursivo representa um núcleo (N) ou um satélite (S).
+
+- Núcleo ou unidade nuclear: expressa a informação principal sendo, portanto, mais relevante do que o satélite;
+- Satélite: apresenta informação adicional, a qual exerce influência na interpretação do leitor sobre a informação apresentada em N.
+
