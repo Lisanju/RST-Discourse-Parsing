@@ -138,3 +138,34 @@ Apesar do RST ser um bom modelo para um analisador discursivo, ele possui suas l
 - Determinação dos segmentos (segmentação) - Orações, sentenças ou parágrafos?
 - Determinação da nuclearidade - NS, SN ou NN?
 - Escolha das relações - CAUSE, EFFECT ou JUSTIFY?
+
+## Regras de segmentação textual para análise via RST
+Para segmentar as proposições/orações em uma análise via RST, existem algumas pistas linguísticas que podemos utilizar:
+
+- Orações sinalizadas por marcadores discursivos como porque, apesar de, conforme, segundo, em consequência de, onde, etc.
+
+Ex. `Ela o viu ontem, | quando ele saía do trabalho.`
+
+- Orações relativas.
+  
+Ex. `Os alunos | que se esforçam | obtiveram bons resultados.`
+
+- Orações coordenadas.
+  
+Ex. `Ela almoçou | e foi para o trabalho.`
+
+- Parênteses (ou underscores) como segmentos encaixados.
+  
+Ex1. `O PLN | (também chamado Linguística Computacional) | é uma grande área de pesquisa.`
+
+Ex2. `O PLN | - também chamado Linguística Computacional - | é uma grande área de pesquisa.`
+
+- Orações apositivas.
+  
+Ex. `Desejo-lhe uma coisa: | que tenhas um abençoado 2016!`
+
+- Orações subordinadas com verbos atribuição.
+  
+Ex. `A companhia disse que | fechará a fábrica`
+
+Note que discursos diretos (com aspas) normalmente não são segmentados.
