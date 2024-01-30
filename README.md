@@ -68,3 +68,21 @@ Cada segmento discursivo representa um núcleo (N) ou um satélite (S).
 - Núcleo ou unidade nuclear: expressa a informação principal sendo, portanto, mais relevante do que o satélite;
 - Satélite: apresenta informação adicional, a qual exerce influência na interpretação do leitor sobre a informação apresentada em N.
 
+Por exemplo, tomemos o texto abaixo:
+
+```
+Ele queria jantar com Suzana, mas também queria jogar tênis com Janete. Essa indecisão o deixou louco.
+```
+
+- a - `Ele queria jantar com Suzana,`;
+- b - `mas também queria jogar tênis com Janete.`;
+- c - `Essa indecisão o deixou louco.`.
+
+Dividimos o texto em três segmentos discursivos a, b e c. Cada segmento se conecta através de uma relação retórica.
+
+O segmento b expressa uma relação retórica de contraste com o segmento a, em que ambos carregam informações relevantes apesar de constratantes. Dizemos, então que estão conectados através da relação CONTRAST, que é multinuclear, isto é, conecta um N (segmento a) a outro N (segmento b).
+
+Agora, a conexão entre a e b se conectam com o segmento c através dedasdasda uma relação retórica de causa. Isto é, a informação expressa no segmento c é a informação principal em relação aos outros segmentos. A causa da informação do segmento c são os segmentos conectados a e b. Por isso, dizemos que estão conectados através de uma relação CAUSE, que é mononuclear, isto é, conecta um N (segmento c) com um S (segmento a conectado com b).
+
+![image](https://github.com/Lisanju/RST-Discourse-Parsing/assets/106002045/32439992-0c1d-4e37-86eb-ffb64c798614)
+
