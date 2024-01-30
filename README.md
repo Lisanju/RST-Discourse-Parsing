@@ -86,3 +86,55 @@ Agora, a conexão entre a e b se conectam com o segmento c através dedasdasda u
 
 ![image](https://github.com/Lisanju/RST-Discourse-Parsing/assets/106002045/32439992-0c1d-4e37-86eb-ffb64c798614)
 
+De acordo com a RST, a organização das relações retórica é:
+
+**Relações de Causa**:
+- Volitional Cause
+- Volitional Result
+- Non-Volitional Cause
+- Non-Volitional Result
+- Purpose
+
+**Relações de Evidência e Justificativa**
+- Evidence
+- Justify
+
+**Relações de Motivação**
+- Enablement
+- Motivation
+
+**Relações de Antítese e Concessão**
+- Antithesis
+- Concession
+
+**Relações de Condição**
+- Condition
+- Otherwise
+
+**Relações de Interpretação e Avaliação**
+- Interpretation/Evaluation
+
+**Relações de Reiteração e Sumário**
+- Restatement
+- Summary
+
+**Outras**
+- Background
+- Circumstance
+- Contrast
+- Elaboration
+- Sequence
+- Solutionhood
+- Joint
+
+De modo geral, as relações retóricas possuem 3 naturezas:
+
+- Relações intencionais: alteram a inclinação do leitor para algo;
+- Relações informativas: informam o leitor sobre algo;
+- Relações estruturais: sem significado, apenas mantêm a integridade da estrutura textual.
+
+Apesar do RST ser um bom modelo para um analisador discursivo, ele possui suas limitações, como depender de muita subjetividade e ocasionar ambiguidades:
+
+- Determinação dos segmentos (segmentação) - Orações, sentenças ou parágrafos?
+- Determinação da nuclearidade - NS, SN ou NN?
+- Escolha das relações - CAUSE, EFFECT ou JUSTIFY?
