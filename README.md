@@ -1,2 +1,2 @@
-# RST-Discourse-Parsing
-Analisador discursivo de textos do português brasileiro pela Teoria de Estrutura Retórica (RST)
+# Analisador Discursivo pelo método RST
+A proposta deste repositório é estudar a produção de um analisador discursivo de um sistema de Processamento de Linguagem Natural (NLP) simbólico, isso através do método RST - Teoria de Estrutura Retórica, de Mann e Thompson (1987), uma das principais teorias discursivas. Trata-se de um projeto feito para a disciplina 'Laboratório 5 - PLN' no curso de Linguística - UFSCar.
