@@ -164,7 +164,7 @@ Ex2. `O PLN | - também chamado Linguística Computacional - | é uma grande ár
   
 Ex. `Desejo-lhe uma coisa: | que tenhas um abençoado 2016!`
 
-**Orações subordinadas com verbos atribuição.**
+**Orações subordinadas com verbos de atribuição.**
   
 Ex. `A companhia disse que | fechará a fábrica`
 
