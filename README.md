@@ -1,5 +1,5 @@
 # Analisador Discursivo pelo método RST
-A proposta deste repositório é estudar a produção de um analisador discursivo de um sistema de Processamento de Linguagem Natural (NLP) simbólico, isso através do método RST - Teoria de Estrutura Retórica, de Mann e Thompson (1987), uma das principais teorias discursivas. Trata-se de um projeto feito para a disciplina 'Laboratório 5 - PLN' no curso de Linguística - UFSCar.
+A proposta deste repositório é estudar a produção de um analisador discursivo de um sistema de Processamento de Linguagem Natural (NLP) simbólico, isso através do método RST - Teoria de Estrutura Retórica, de Mann e Thompson (1987), uma das principais teorias discursivas. Trata-se de um projeto feito para a disciplina 'Laboratório 5 - PLN', ministrada pela Profa. Dra. Ariani Di Felippo no curso de Bacharelado em Linguística pela UFSCar.
 
 ## Sobre os sistemas de PLN
 De um modo geral, o PLN busca a automação de tarefas linguísticas específicas que envolvem a interpretação e a geração de uma língua natural. Como exemplo de sistemas ou aplicações do PLN, temos:
